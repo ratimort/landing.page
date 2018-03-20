@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+}
+
+h1 ,p ,a ,h4 ,li ,h5 ,h2 ,h3 {
+	font-family: Montserrat,Helvetica,sans-serif;
+	font-weight: 100;
+	text-decoration: none;
+	color: #111;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+}
+
+.coub1 {
+	width: 1200px;
+	margin: auto;
+}
+
+.coub1-img {
+    width: 500px;
+    float: left;
+}
+
+.coub1-p {
+	width: 700px;
+	float: left;
+}
+
+
+
+
+/* FOOTER */
+footer {
+	width: 1200px;
+	height: 200px;
+	margin: auto;
+	float: left;
+}
+
+.f-info1 {
+	width: 1200px;
+	height: 100px;
+	border-bottom: 2px solid #111;
+	border-top: 2px solid #111;
+}
+
+.f-info1 p {
+	margin-top: 40px;
+	float: left;
+}
+
+.f-img {
+	float: right;
+	margin-right: 100px;
+	margin-top: 38.5px;
+}
+
+.f-img img {
+	width: 23px;
+	margin-right: 1px;
+}
+/* FOOTER */
+
